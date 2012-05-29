@@ -1,0 +1,16 @@
+{
+  "author": "Ryan Dick <noxinoobin@gmail.com> (http://www.drstrangely.com)",
+  "name": "mongo-search",
+  "description": "MongoDb plain text search",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git@bitbucket.org:ryandick/mongo-search.git"
+  },
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
